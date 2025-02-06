@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400944230848",
+    "project_id": "be-safe-bd",
+    "storage_bucket": "be-safe-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400944230848:android:c03a28ef5044178d949825",
+        "android_client_info": {
+          "package_name": "com.besafe.be_safe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj0LtS4pb_YUW4CCZCdw8xIg-SVAxO7Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
